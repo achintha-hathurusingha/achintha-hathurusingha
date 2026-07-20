@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E64FE&height=300&section=header&text=Achintha%20Rukshan&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20and%20Infrastructure%20Engineer&descAlignY=55&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=280&section=header&text=Achintha%20Rukshan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%7C%20Cloud%20%7C%20Infrastructure%20Engineer&descAlignY=54&descSize=20"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E64FE&center=true&vCenter=true&width=500&lines=Building+Resilient+Infrastructure;Automating+The+Boring+Stuff;Exploring+RHEL+and+VMware;Intern+at+MillenniumIT+ESP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E64FE&center=true&vCenter=true&width=520&lines=Building+Resilient+Infrastructure;Automating+The+Boring+Stuff;Exploring+RHEL%2C+VMware+%26+Kubernetes;Trainee+Infra+Engineer+%40+MillenniumIT+ESP" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=achintha-hathurusingha&label=Profile%20Views&color=2E64FE&style=for-the-badge" alt="profile views" />
 </div>
 
 <br/>
@@ -15,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:achinthar456@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-800020?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:hathurusinghahar.22@uom.lk">
     <img src="https://img.shields.io/badge/UoM_Email-005a9c?style=for-the-badge&logo=minutemailer&logoColor=white" />
@@ -29,44 +33,58 @@
 
 <div align="center">
 
-### 🧙‍♂️ About Me
+### About Me
 
-I am a **DevOps enthusiast** and undergraduate at the **University of Moratuwa**. Currently, I am applying my skills as a Trainee Infrastructure Engineer at **MillenniumIT ESP**, focusing on Enterprise Linux and Virtualization.
+I am a **DevOps &amp; Infrastructure enthusiast** and an Electronic &amp; Telecommunication Engineering undergraduate at the **University of Moratuwa**. I currently work as a **Trainee Infrastructure Engineer at MillenniumIT ESP**, focused on Enterprise Linux, Virtualization, and Cloud-native tooling.
 
-Examples of my work include **6DOF Robotic Arm control** and **Conveyor Belt inspection systems**.
+I enjoy turning manual operations into automated, resilient systems &mdash; from **6DOF Robotic Arm control** and **Conveyor Belt inspection** to **Kubernetes lab platforms** and **RHEL automation**.
+
+- Currently deepening: **Kubernetes, Terraform, and Platform Engineering**
+- Ask me about: **RHEL &middot; VMware vSphere &middot; Docker &middot; Ansible**
+- Reach me: **achinthar456@gmail.com**
 
 </div>
 
 ---
 
 
-### 🔮 The Arsenal
+### The Arsenal
 
 <table border="0">
   <tr>
     <td width="55%" valign="top">
       <br/>
-      <h4 align="left">☁️ Infrastructure & Virtualization</h4>
+      <h4 align="left">Infrastructure &amp; Virtualization</h4>
       <p>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
         <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
         <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       </p>
-      <h4 align="left">🚀 DevOps & Automation</h4>
+      <h4 align="left">DevOps &amp; Automation</h4>
       <p>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white" />
+        <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
       </p>
-      <h4 align="left">💻 Scripting & Languages</h4>
+      <h4 align="left">Observability &amp; CI/CD</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      </p>
+      <h4 align="left">Scripting &amp; Languages</h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bash-800020?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
       </p>
     </td>
     <td width="45%" valign="middle" align="center">
-        <img src="https://raw.githubusercontent.com/Achi-456/Achi-456/main/gif3%20(1).gif" width="100%" alt="Coding Gif"/>
+        <img src="https://raw.githubusercontent.com/achintha-hathurusingha/achintha-hathurusingha/main/gif3%20(1).gif" width="100%" alt="Coding Gif"/>
     </td>
   </tr>
 </table>
@@ -75,38 +93,38 @@ Examples of my work include **6DOF Robotic Arm control** and **Conveyor Belt ins
 
 
 <div align="center">
-  <h3>🚀 Weekly Engineering Velocity</h3>
-  <p><i>Last updated: 2026-07-20 13:41 UTC</i></p>
-  
+  <h3>Weekly Engineering Velocity</h3>
+  <p><i>Last updated: 2026-07-20 17:42 UTC</i></p>
+
   <div align="center" style="margin: auto;">
     
 <div style="margin-bottom: 8px;">
-  <a href="https://github.com/Achi-456/rhel-automation-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📂%20RHEL%20Scripts-2E64FE?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  <a href="https://github.com/achintha-hathurusingha/rhel-automation-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/RHEL%20Scripts-2E64FE?style=for-the-badge&logo=github&logoColor=white" height="28" />
   </a>
   <img src="https://img.shields.io/badge/Commits-0%2F4-b60205?style=for-the-badge" height="28" />
 </div>
 
 
 <div style="margin-bottom: 8px;">
-  <a href="https://github.com/Achi-456/infrastructure-playground" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📂%20Infra%20Playground-2E64FE?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  <a href="https://github.com/achintha-hathurusingha/infrastructure-playground" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Infra%20Playground-2E64FE?style=for-the-badge&logo=github&logoColor=white" height="28" />
   </a>
   <img src="https://img.shields.io/badge/Commits-0%2F3-b60205?style=for-the-badge" height="28" />
 </div>
 
 
 <div style="margin-bottom: 8px;">
-  <a href="https://github.com/Achi-456/k8s-lab-experiments" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📂%20K8s%20Labs-2E64FE?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  <a href="https://github.com/achintha-hathurusingha/k8s-lab-experiments" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/K8s%20Labs-2E64FE?style=for-the-badge&logo=github&logoColor=white" height="28" />
   </a>
   <img src="https://img.shields.io/badge/Commits-0%2F5-b60205?style=for-the-badge" height="28" />
 </div>
 
 
 <div style="margin-bottom: 8px;">
-  <a href="https://github.com/Achi-456/engineering-journal" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📂%20Eng%20Journal-2E64FE?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  <a href="https://github.com/achintha-hathurusingha/engineering-journal" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Eng%20Journal-2E64FE?style=for-the-badge&logo=github&logoColor=white" height="28" />
   </a>
   <img src="https://img.shields.io/badge/Commits-0%2F7-b60205?style=for-the-badge" height="28" />
 </div>
@@ -118,8 +136,27 @@ Examples of my work include **6DOF Robotic Arm control** and **Conveyor Belt ins
 <p align="center"><img src="https://img.shields.io/badge/Total_Weekly_Commits-0-2E64FE?style=for-the-badge&logo=github&logoColor=white" /></p>
 
 
-### 📊 Github Stats
+### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achi-456&theme=dark&hide_border=true&background=0d1117&ring=2E64FE&fire=2E64FE&currStreakNum=2E64FE&currStreakLabel=2E64FE" alt="streak stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=achintha-hathurusingha&show_icons=true&count_private=true&hide_border=true&title_color=2E64FE&icon_color=2E64FE&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achintha-hathurusingha&layout=compact&langs_count=8&hide_border=true&title_color=2E64FE&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achintha-hathurusingha&theme=dark&hide_border=true&background=0d1117&ring=2E64FE&fire=2E64FE&currStreakNum=2E64FE&currStreakLabel=2E64FE" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=achintha-hathurusingha&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achintha-hathurusingha&theme=react-dark&hide_border=true&bg_color=0d1117&color=2E64FE&line=2E64FE&point=ffffff&area=true" alt="activity graph" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=120&section=footer"/>
 </div>
